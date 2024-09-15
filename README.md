@@ -110,8 +110,8 @@ curl http://192.168.4.1/parameters
 ```
 
 # Troubleshooting
-Cannot Connect to ESP8266 AP: Ensure that your ESP8266 is powered correctly and the code was uploaded successfully.
-Incorrect Voltage or Current Readings: Double-check the wiring of the voltage divider and shunt resistor. Ensure proper resistor values are used.
+- Cannot Connect to ESP8266 AP: Ensure that your ESP8266 is powered correctly and the code was uploaded successfully.
+- Incorrect Voltage or Current Readings: Double-check the wiring of the voltage divider and shunt resistor. Ensure proper resistor values are used.
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
